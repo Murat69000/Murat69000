@@ -29,21 +29,21 @@ Merhaba, ben Murat. Harita Mühendisiyim ve hem sahada hem bilgisayar başında 
 
 ## 🧰 Kullandığım Araçlar & Teknolojiler
 
-| Logo | Araç | Açıklama |
-|------|------|----------|
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/ArcGIS_Pro.png?raw=true" width="50"/> | **ArcGIS Pro** | CBS analizleri, harita üretimi ve mekansal modelleme |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/QGIS.png?raw=true" width="50"/> | **QGIS** | Açık kaynak CBS platformu, esnek veri yönetimi |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/CityEngine.png?raw=true" width="50"/> | **CityEngine** | 3B şehir modelleme ve kentsel planlama |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/AutoCAD_Civil_3D.png?raw=true" width="50"/> | **AutoCAD Civil 3D** | Altyapı tasarımı, arazi modelleme ve mühendislik çizimleri |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/GlobalMapper.png?raw=true" width="50"/> | **GlobalMapper** | Raster/vektör veri işleme ve uzaktan algılama |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Adobe_Photoshop.png?raw=true" width="50"/> | **Adobe Photoshop** | Teknik görsel düzenleme, harita estetiği ve sunum |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Adobe_Illustrator.png?raw=true" width="50"/> | **Adobe Illustrator** | Vektörel grafik tasarımı ve teknik çizim |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Python.png?raw=true" width="50"/> | **Python** | Veri analizi, otomasyon ve CBS entegrasyonları |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Visual_Studio.png?raw=true" width="50"/> | **Visual Studio** | Kod geliştirme, hata ayıklama ve entegrasyon |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/PostgreSQL.png?raw=true" width="50"/> | **PostgreSQL + PostGIS** | Coğrafi veritabanı yönetimi ve uzamsal sorgular |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Microsoft_Visio.png?raw=true" width="50"/> | **Microsoft Visio** | Süreç diyagramları ve iş akış şemaları |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Microsoft_Excel.png?raw=true" width="50"/> | **Microsoft Excel** | Veri analizi, raporlama ve otomasyon |
-| <img src="https://github.com/Murat69000/Murat69000/blob/main/Canva.png?raw=true" width="50"/> | **Canva** | Görsel içerik ve sunum tasarımı |
+<p align="center">
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/ArcGIS_Pro.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/QGIS.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/CityEngine.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/AutoCAD_Civil_3D.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/GlobalMapper.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Adobe_Photoshop.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Adobe_Illustrator.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Python.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Visual_Studio.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/PostgreSQL.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Microsoft_Visio.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Microsoft_Excel.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Murat69000/Murat69000/blob/main/Canva.png?raw=true" width="30"/>
+</p>
 
 ---
 
