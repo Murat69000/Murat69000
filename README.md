@@ -1,5 +1,6 @@
-# Hello- Let's Connect
-<h1 align="center">👋 Merhaba, ben Murat </h1>
+<h1 align="center">
+  Merhaba arkadaşlar!    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="30"/>
+</h1>
 <p align="center">
 GIS & İş Sağlığı Güvenliği Uzmanı | Harita Mühendisi | Süreç Otomasyonu Geliştiricisi
 </p>
