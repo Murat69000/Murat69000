@@ -11,7 +11,7 @@
 
 <h2 align="left">
   🧭 Hakkımda&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kendi-kullanici-adin/" target="_blank">
+  <a href="https://www.linkedin.com/in/murat-oruç/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </h2>
