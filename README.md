@@ -1,10 +1,13 @@
-<h1 align="center">
-  Merhaba arkadaşlar!    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="30"/>
-</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hello,+Let's+Connect!" alt="Hello Let's Connect" />
 </p>
 
----
+<p align="center">
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="50"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Murat+ORUC" alt="Murat ORUC" />
+</p>
 
 ## 🧭 Hakkımda
 
