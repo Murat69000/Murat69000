@@ -106,7 +106,7 @@
 ### Treat me to a coffee ☕
 
 
-[<img src="assets/buymeacoffee-yellow.png" width="180">](https://www.buymeacoffee.com/Murat69000/)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-yellow)](https://www.buymeacoffee.com/Murat69000/)
 
 ---
 
