@@ -63,9 +63,6 @@
 
 ### 🗺️ Coğrafi Bilgi Sistemleri ve Haritalama
 
-<details><summary><strong>📍 Sertifikalar ve Eğitimler (tıklayın)</strong></summary>
-
-
 
 | Sertifika / Eğitim                  | Kurum                         | Tarih     | Açıklama                                      |
 |------------------------------------|-------------------------------|-----------|-----------------------------------------------|
@@ -78,8 +75,6 @@
 ### 🛡️ İş Sağlığı ve Güvenliği Sertifikaları
 
 
-<details><summary><strong>🧯 Sertifikalar ve Eğitimler (tıklayın)</strong></summary>
-
 | Sertifika                          | Kurum                         | Tarih     | Açıklama                                      |
 |-----------------------------------|-------------------------------|-----------|-----------------------------------------------|
 | Sınıf B İSG Uzmanı                | ÇSGB                          | 06/2021   | Saha denetimi, acil durum, risk değerlendirme |
@@ -89,8 +84,7 @@
 
 
   ### 🧪 ISO İç Denetçi Sertifikaları – NTSS
-
-<details><summary><strong>🧪 ISO Belgeleri için (tıklayın)</strong></summary>
+  
 
 | Sertifika                          | Tarih     | Açıklama                                      |
 |-----------------------------------|-----------|-----------------------------------------------|
