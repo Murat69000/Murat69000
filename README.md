@@ -9,9 +9,13 @@ GIS & İş Sağlığı Güvenliği Uzmanı | Harita Mühendisi | Süreç Otomasy
 
 ## 🧭 Hakkımda
 
-Merhaba, ben Murat. Harita Mühendisiyim ve hem sahada hem bilgisayar başında çalışmayı seven bir GIS ve İSG uzmanıyım.  
-🎓 Yıldız Teknik Üniversitesi’nde lisansımı tamamladım, ardından İş Sağlığı ve Güvenliği alanında iki yüksek lisansla uzmanlığımı derinleştirdim.  
-📜 Sertifikalı Seviye 6 GIS Uzmanıyım ve uluslararası geçerliliğe sahip NEBOSH ve IOSH belgeleriyle B Sınıfı İSG Uzmanıyım.
+*👋 Merhaba, ben Murat — haritayı çizerim, sahada ölçerim, bilgisayarda kodlarım. **GIS & İSG tam zamanlı mesaim!***
+
+*🎓 **Yıldız Teknik Üniversitesi** lisans mezunuyum. Ardından İş Sağlığı ve Güvenliği alanında iki yüksek lisansla uzmanlığımı turbo moda aldım.*
+
+*📜 **Seviye 6 GIS Uzmanıyım**, ayrıca uluslararası geçerliliğe sahip **NEBOSH ve IOSH belgeleriyle B Sınıfı İSG Uzmanıyım**.*
+
+*🛠️ CBS, Python ve süreç otomasyonu ile hem sahada güvenliği sağlıyor hem de dijital çözümler geliştiriyorum. Kask takmadan kod yazmam 😄*
 
 
 ---
@@ -52,40 +56,40 @@ Merhaba, ben Murat. Harita Mühendisiyim ve hem sahada hem bilgisayar başında 
 
 ### 🗺️ Coğrafi Bilgi Sistemleri ve Haritalama
 
-- **CBS Uzmanı (Seviye 6)** – Çevre, Şehirleşme ve İklim Değişikliği Bakanlığı *(06/2025)*  
-  _Mekansal analiz, 3B modelleme ve risk haritası oluşturma_
+<details><summary><strong>📍 Sertifikalar ve Eğitimler (tıklayın)</strong></summary>
 
-- **ArcGIS Mekansal Analiz Uygulamaları** – ESRI *(03/2021)*  
-  _GIS tabanlı karar destek sistemlerinin geliştirilmesi_
-
-- **NetCAD Yol Projesi Eğitimi** – NetCAD *(05/2016)*  
-  _Yol tasarımı ve koordinat düzenleme_
-
-- **Ticari İHA Pilotu (UAV-O)** – Geomes *(02/2019)*  
-  _Hava haritalama ve veri toplama_
+| Sertifika / Eğitim                  | Kurum                         | Tarih     | Açıklama                                      |
+|------------------------------------|-------------------------------|-----------|-----------------------------------------------|
+| CBS Uzmanı (Seviye 6)              | ÇŞİDB                         | 06/2025   | Mekansal analiz, 3B modelleme, risk haritası  |
+| ArcGIS Mekansal Analiz             | ESRI                          | 03/2021   | Karar destek sistemleri geliştirme            |
+| NetCAD Yol Projesi Eğitimi         | NetCAD                        | 05/2016   | Yol tasarımı, koordinat düzenleme             |
+| Ticari İHA Pilotu (UAV-O)          | Geomes                        | 02/2019   | Hava haritalama, veri toplama                 |
 
 
 ### 🛡️ İş Sağlığı ve Güvenliği Sertifikaları
 
-- **Sınıf B Sertifikalı İSG Uzmanı** – Çalışma ve Sosyal Güvenlik Bakanlığı *(06/2021)*  
-  _Saha denetimleri, acil durum planlaması ve risk değerlendirmeleri_
 
-- **NEBOSH Uluslararası Genel Sertifikası** – NEBOSH *(12/2024)*  
-  _Küresel İSG standartlarıyla uyumlu risk yönetimi_
+<details><summary><strong>🧯 Sertifikalar ve Eğitimler (tıklayın)</strong></summary>
 
-- **IOSH Güvenli Yönetim** – IOSH *(08/2024)*  
-  _Güvenlik süreci yönetimi ve raporlaması_
-
-- **OSH Profesyoneli-132** – OSHA Akademisi *(10/2024)*  
-  _Profesyonel düzeyde iş güvenliği uzmanlığı_
+| Sertifika                          | Kurum                         | Tarih     | Açıklama                                      |
+|-----------------------------------|-------------------------------|-----------|-----------------------------------------------|
+| Sınıf B İSG Uzmanı                | ÇSGB                          | 06/2021   | Saha denetimi, acil durum, risk değerlendirme |
+| NEBOSH Uluslararası Sertifika     | NEBOSH                        | 12/2024   | Küresel İSG standartlarıyla uyum              |
+| IOSH Güvenli Yönetim              | IOSH                          | 08/2024   | Süreç yönetimi ve raporlama                   |
+| OSH Profesyoneli-132              | OSHA Akademisi                | 10/2024   | Profesyonel düzeyde İSG uzmanlığı             |
 
 
   ### 🧪 ISO İç Denetçi Sertifikaları – NTSS
 
-- **ISO 9001** – Kalite Yönetim Sistemi *(08/2024)*  
-- **ISO 14001** – Çevre Yönetim Sistemi *(08/2024)*  
-- **ISO 45001** – İş Sağlığı ve Güvenliği Yönetim Sistemi *(08/2024)*  
-- **ISO 27001:2022** – Bilgi Güvenliği Yönetim Sistemi *(04/2025)*
+<details><summary><strong>🧪 ISO Belgeleri için (tıklayın)</strong></summary>
+
+| Sertifika                          | Tarih     | Açıklama                                      |
+|-----------------------------------|-----------|-----------------------------------------------|
+| ISO 9001 – Kalite Yönetimi        | 08/2024   | Süreç kalitesi ve denetim                     |
+| ISO 14001 – Çevre Yönetimi        | 08/2024   | Çevresel sürdürülebilirlik                   |
+| ISO 45001 – İSG Yönetimi          | 08/2024   | İş sağlığı ve güvenliği süreçleri             |
+| ISO 27001:2022 – Bilgi Güvenliği  | 04/2025   | Veri gizliliği ve güvenlik denetimi           |
+
 
 ---
 
