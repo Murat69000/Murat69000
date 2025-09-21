@@ -9,7 +9,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Murat+ORUC" alt="Murat ORUC" />
 </p>
 
-## 🧭 Hakkımda
+<h2 align="left">
+  🧭 Hakkımda&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kendi-kullanici-adin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</h2>
 
 *👋 Merhaba, ben Murat — haritayı çizerim, sahada ölçerim, bilgisayarda kodlarım. **GIS & İSG tam zamanlı mesaim!***
 
@@ -60,6 +65,8 @@
 
 <details><summary><strong>📍 Sertifikalar ve Eğitimler (tıklayın)</strong></summary>
 
+
+
 | Sertifika / Eğitim                  | Kurum                         | Tarih     | Açıklama                                      |
 |------------------------------------|-------------------------------|-----------|-----------------------------------------------|
 | CBS Uzmanı (Seviye 6)              | ÇŞİDB                         | 06/2025   | Mekansal analiz, 3B modelleme, risk haritası  |
@@ -101,6 +108,11 @@
 - 📬 geomaticsengineering001@gmail.com
 - 🌍 Türkiye
 
+
+### Treat me to a coffee ☕
+
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="220">](https://www.buymeacoffee.com/Murat69000)
 ---
 
 <p align="center">
