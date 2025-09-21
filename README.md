@@ -106,7 +106,7 @@
 ### Treat me to a coffee ☕
 
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180">](https://www.buymeacoffee.com/Murat69000)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180">](https://www.buymeacoffee.com/Murat69000/)
 
 ---
 
