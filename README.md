@@ -42,19 +42,19 @@
 ## 🧰 Kullandığım Araçlar & Teknolojiler
 
 <p align="center">
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/ArcGIS_Pro.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/QGIS.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/CityEngine.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/AutoCAD_Civil_3D.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/GlobalMapper.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Adobe_Photoshop.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Adobe_Illustrator.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Python.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Visual_Studio.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/PostgreSQL.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Microsoft_Visio.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Microsoft_Excel.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Murat69000/Murat69000/blob/main/Canva.png?raw=true" width="30"/>
+  <img src="assets/ArcGIS_Pro.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/QGIS.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/CityEngine.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/AutoCAD_Civil_3D.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/GlobalMapper.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Adobe_Photoshop.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Adobe_Illustrator.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Python.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Visual_Studio.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/PostgreSQL.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Microsoft_Visio.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Microsoft_Excel.png?raw=true" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Canva.png?raw=true" width="30"/>
 </p>
 
 ---
