@@ -94,6 +94,10 @@
 | ISO 27001:2022 – Bilgi Güvenliği  | 04/2025   | Veri gizliliği ve güvenlik denetimi           |
 
 
+
+
+
+
 ---
 
 ## 🌐 İletişim & Ağlar
